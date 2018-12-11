@@ -12,5 +12,6 @@ public class App extends Thread{
 		
 		Thread thread = new Thread(app);
 		thread.start();
+		thread.start();
 	}
 }
